@@ -1,0 +1,51 @@
+#footer {
+  background: url(../img/slider/venezia.jpg) no-repeat center center fixed; 
+  display: table;
+
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+#label{
+    color:white;
+    padding-left: 15px;
+}
+#checkbox-form{
+    margin-right: 5px;
+}
+.form-box {
+    width: 50%;
+    margin: auto;
+    padding-top:20px;
+}
+
+.form-box h1 {
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: tomato;
+}
+
+.form-box h1 span {
+    font-weight: lighter;
+}
+
+#footerR{
+  background: url(../img/slider/mvalley.jpg) no-repeat center center fixed; 
+  display: table;
+
+  position: relative;
+  width: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    hight:500x;
+}
+

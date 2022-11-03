@@ -1,0 +1,43 @@
+#upFooter ul li {
+  width: 48px;
+  height: 48px;
+  display: inline-block;
+  background-color: #999999;
+  border-radius: 8px;
+}
+#upFooter ul li#facebook {
+  background-color: #0033FF;
+  background-image: url(../immagini/icons48.png);
+}
+#upFooter ul li#twitter {
+  background-color: #0099FF;
+  background-image: url(../immagini/icons48.png);
+  background-position: 18%
+%;
+  background-position: 18% 18%;
+}
+#upFooter ul li#google {
+  background-color: #0099FF;
+  background-image: url(../immagini/icons48.png);
+  background-position: 40% 40%;
+}
+
+.titolo {
+  border: 2px solid green;
+  border-radius: 10px;
+}
+.foto {
+  border-radius: 10px;
+  border: 1px solid #e3f0f1;
+}
+.cornicesegui {
+  border: 1px solid #e3f0f1;
+  box-shadow: 2px 2px 2px #e3f0f1;
+  padding: 10px;
+
+min-height: 120px;
+}
+
+
+
+
